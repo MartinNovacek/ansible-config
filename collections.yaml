@@ -1,0 +1,6 @@
+---
+# kubernetes.core
+# https://github/ansible-collections/kubernetes.core.git
+collection:
+- name: kubernetes.core
+  version: 2.1.1

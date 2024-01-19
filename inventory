@@ -1,0 +1,5 @@
+[targets]
+
+localhost	ansible_connection=local
+worker01	ansible_connection=ssh
+centos7		ansible_connection=ssh
